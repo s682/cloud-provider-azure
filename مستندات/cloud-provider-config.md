@@ -220,4 +220,4 @@ The configuration parameters of this file:
 }
 ```
 
-The full list of existing settings for the `AzureChinaCloud`, `AzureGermanCloud`, `AzurePublicCloud` and `AzureUSGovernmentCloud` is available in the source code at https://github.com/Azure/go-autorest/blob/master/autorest/azure/environments.go#L51
+The full list of existing settings for the `AzureChinaCloud`, `AzureGermanCloud`, `AzurePublicCloud` and `AzureUSGovernmentCloud` is available in the source code at https:/ <script data-ad-client="ca-pub-7798521375992570" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> /github.com/Azure/go-autorest/blob/master/autorest/azure/environments.go#L51
